@@ -34,14 +34,6 @@ Built using real-world employee data, the dashboard includes metrics on attritio
 - 🔹 **Departmental Insight**:
   - **Research & Development** has the highest employee loss, highlighting a need for engagement strategy in core teams.
 
-
-## 🚀 How to Use
-
-1. Clone or download the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Refresh data connections if needed using the included `.csv` file.
-4. Explore different dimensions of attrition using filters and visual interactions.
-
 ## 🎯 Business Value
 
 This dashboard helps HR teams:
